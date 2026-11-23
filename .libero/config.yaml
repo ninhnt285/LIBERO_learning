@@ -1,0 +1,5 @@
+assets: /home/tnguy248/Projects/LIBERO_learning/.venv/lib/python3.12/site-packages/libero/libero/./assets
+bddl_files: /home/tnguy248/Projects/LIBERO_learning/.venv/lib/python3.12/site-packages/libero/libero/./bddl_files
+benchmark_root: /home/tnguy248/Projects/LIBERO_learning/.venv/lib/python3.12/site-packages/libero/libero
+datasets: /home/tnguy248/Projects/LIBERO_learning/datasets
+init_states: /home/tnguy248/Projects/LIBERO_learning/.venv/lib/python3.12/site-packages/libero/libero/./init_files
